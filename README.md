@@ -1,6 +1,6 @@
 ## Welcome to my Profile! 😁
 
-Hi! I’m Emilio Elmurr, a **Full-Stack Developer** with a passion for **Backend Development**, **Database Administration**, and **DevOps**. I have experience in **web** and **mobile** development and love solving complex challenges.
+Hi! I’m Emilio El Murr, a **Full-Stack Developer** with a passion for **Backend Development**, **Database Administration**, and **DevOps**. I have experience in **web** and **mobile** development and love solving complex challenges.
 
 ---
 
